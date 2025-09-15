@@ -1,7 +1,7 @@
 # Programming-Books-Serie1
 Programming eBooks
 
-| #  | Name | Direect Link | Mirror Link |
-| ------------- | ------------- | --------------- | -------------- |
-| Content Cell  | Content Cell  |                 |                |
-| Content Cell  | Content Cell  |                 |                |
+| #  | Name | Associate to | Direect Link | Mirror Link |
+| ------------- | ------------- | --------------- | -------------- | ----------- |
+| Content Cell  | Content Cell  |  JavaScript     |                |             |
+| Content Cell  | Content Cell  |  Java           |                |             |
