@@ -1,7 +1,7 @@
 # Programming-Books-Serie1
 Programming eBooks
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| #  | Name | Direect Link | Mirror Link |
+| ------------- | ------------- | --------------- | -------------- |
+| Content Cell  | Content Cell  |                 |                |
+| Content Cell  | Content Cell  |                 |                |
